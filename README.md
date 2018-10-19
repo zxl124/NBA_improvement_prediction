@@ -16,5 +16,6 @@ I also built multiple classification models. Voting model preformed the best and
 2. Cleaned and modified data(with engineered features) can be found in data/
 3. **Code and figures are in Jupyter Notebook form and can be found in notebooks/**
 4. **Final report can be found in Final_report.pdf**
+5. Presentation can be found in Presentation.pdf
 <br>
 Suggestions or discussions are welcome.
